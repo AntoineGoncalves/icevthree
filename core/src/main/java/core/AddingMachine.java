@@ -22,7 +22,7 @@ public final class AddingMachine implements ICalculationMachine {
 
     @Override
     public double calculate(double a, double b) {
-        return a + b; // test // test d'un test hahaaa
+        return a + b; // test // test d'un test hahaaa pd..
     }
 
 }
